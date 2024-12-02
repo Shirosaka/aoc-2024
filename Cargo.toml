@@ -3,4 +3,3 @@ resolver = "2"
 members = ["day1", "day2"]
 
 [workspace.dependencies]
-anyhow = "1.0"
