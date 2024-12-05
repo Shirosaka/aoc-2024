@@ -1,2 +1,6 @@
 /target
 *.txt
+
+# Where all the inputs go
+# Naming convention: dayXX.txt
+inputs/
